@@ -161,7 +161,7 @@ int evaluate(string postfix){
 
 
 int main(){
-    string number = "2+((5+121)*2)";
+    string number = "(2+3)*3-(10/5)";
     string postfix = convertInfixToPostfix(number);
     cout << convertInfixToPostfix(number) << endl;
     cout << evaluate(postfix);
