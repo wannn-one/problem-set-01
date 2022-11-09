@@ -6,4 +6,4 @@ Made for Data Structure & Algorithm Analysis Course task. Built with C++
 <li>Binary tree (inOrder) from a postfix expression</li>
 
 ## Important
-Solution and Task uploaded at "other" folder. Or click here 
+Solution and Task uploaded at "other" folder. Or click [here](https://github.com/wannn-one/problem-set-01/tree/main/other) 
